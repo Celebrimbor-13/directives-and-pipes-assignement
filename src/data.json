@@ -1,0 +1,26 @@
+
+[
+    {
+        "firstname": "Omister",
+        "lastname": "Onions",
+        "about": "I am originally from Cheshire in the UK, and started my teaching career there before moving to Hong Kong in 2007.",
+        "birthdate": "1957-05-12",
+        "status": "active"
+    }, 
+    {
+        "firstname": "Lestanber",
+        "lastname": "Nutter",
+        "about": "Originally from the United States, I have been living and working in Hong Kong since January 2003.",
+        "birthdate": "1975-08-10",
+        "status": "inactive"
+    },
+    {
+        "firstname": "Konveir",
+        "lastname": "Gotobed",
+        "about": "I am from Germany and moved with my family to Hong Kong several years ago.When I am not working I enjoy spending time with my family and our friends.",
+        "birthdate": "2022-01-27",
+        "status": "disabled"
+    }
+]
+
+   
